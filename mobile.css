@@ -1,0 +1,28 @@
+@media (max-width: 575px) {
+	.menulink {
+		display: block;
+		border-bottom: solid 2px silver;
+	}
+	.menu {
+		position: static;
+		padding: 0;
+	}
+	.aboutflex {
+		display: block;
+	}
+	.logo {
+		width: 100%;
+	}
+	.teamflex {
+		display: block;
+	}
+	.teamitem {
+		width: 100%;
+	}
+	.flextarifs {
+		display: block;
+	}
+	ol {
+		width: 100%;
+	}
+}
